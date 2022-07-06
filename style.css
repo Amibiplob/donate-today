@@ -54,19 +54,31 @@ section a {
     border: 1px solid red;
     background-color:coral;
 }
+.donate-tw{
+    margin: 100px;
+}
 .donate-today{
     text-align:center;
     }
 .donate-width{
     float: left;
-    width: 30%;
+    width: 25%;
     background-color: aliceblue;
     padding: 10px;
     margin: 10px;
+}
+.update{
+    text-align: center;
+
+}
+.emails{
+   background-color: rgb(206, 159, 71);
+   padding: 30px 50px;
+   display: inline;
+   border-radius: 10px;
 }
 footer{
     background-color: black;
     color: azure;
     text-align: center;
-    margin-top: 100px;
 }
