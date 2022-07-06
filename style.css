@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+}
+
+section {
+    width: 100%;
+padding-bottom: 150px;
+}
+
+.donate-now {
+    background-image: url(img/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.donate-text {
+    color: aliceblue;
+    text-align: center;
+    padding: 200px;
+}
+
+section a {
+    padding: 20px;
+    text-decoration: none;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+.flex-box{
+    display: flex;
+    justify-content: center;
+}
+.flex-box div{
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+   background-color:whitesmoke;
+   border-radius: 5px;
+   text-align: center;
+}
+#selet{
+    color: rgb(187, 50, 0);
+    border: 1px solid red;
+    background-color:coral;
+}
+.donate-today{
+    text-align:center;
+    }
+.donate-width{
+    float: left;
+    width: 30%;
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+}
+footer{
+    background-color: black;
+    color: azure;
+    text-align: center;
+    margin-top: 100px;
+}
